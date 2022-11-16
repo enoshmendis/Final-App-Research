@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631996636395",
+    "project_id": "mhelp-7a9cb",
+    "storage_bucket": "mhelp-7a9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631996636395:android:c4fb376c1766caff7372ae",
+        "android_client_info": {
+          "package_name": "com.example.mlvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631996636395-lmr6ffpo0vcsak8apcjpdncgqm9dmv83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUmK-B8J-ib59NDGV0-vxtoA7Ydm8CS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631996636395-lmr6ffpo0vcsak8apcjpdncgqm9dmv83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
